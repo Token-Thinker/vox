@@ -1,0 +1,21 @@
+dash
+flask
+plotly
+grpcio
+grpcio-tools
+numpy
+sounddevice
+rerun-sdk
+Pillow
+picamera2 @ git+https://github.com/raspberrypi/picamera2.git@0_3_12
+tensorflow
+librosa
+networkx
+scikit-learn
+soundfile
+keras
+pandas
+matplotlib
+ipython
+tqdm
+picamera2
