@@ -14,6 +14,13 @@ pip install -r requirements.txt
 
 Note: The Picamera2 library is installed from the official Raspberry Pi GitHub repository at version `0_3_12` as specified in `requirements.txt`.
 
+Running on a non-pi may need the following packages to succesfully run.
+
+```
+sudo apt install libportaudio2
+```
+
+
 ## Usage
 
 ### Start in background

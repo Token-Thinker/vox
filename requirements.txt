@@ -6,7 +6,7 @@ grpcio-tools
 numpy
 sounddevice
 rerun-sdk
-Pillow
+pillow
 picamera2 @ git+https://github.com/raspberrypi/picamera2.git@0_3_12
 tensorflow
 librosa
@@ -19,3 +19,5 @@ matplotlib
 ipython
 tqdm
 picamera2
+image
+opencv-python
