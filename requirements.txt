@@ -21,3 +21,4 @@ tqdm
 picamera2
 image
 opencv-python
+dash-bootstrap-components
